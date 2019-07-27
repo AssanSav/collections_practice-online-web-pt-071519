@@ -1,3 +1,4 @@
+require 'pry'
 def sort_array_asc(array)
   array.sort
 end
@@ -32,5 +33,6 @@ def sum_array(array)
 end
 
 def array_s(array)
-  array.each_with_index do |
+  array.each_with_index do |word, index|
+  binding.pry
 end
