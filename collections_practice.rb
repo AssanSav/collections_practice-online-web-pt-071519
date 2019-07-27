@@ -39,7 +39,7 @@ def add_s(array)
     else 
       word[word.length] = "s"
       word
-      binding.pry
+      #binding.pry
     end
   end
 end
