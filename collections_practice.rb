@@ -38,6 +38,7 @@ def add_s(array)
       word
     else 
       word.length = "s"
+      word
     end
   end
 end
