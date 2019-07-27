@@ -38,7 +38,6 @@ def array_s(array)
       word
     else 
       word.size = "s"
-  binding.pry
     end
   end
 end
