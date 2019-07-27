@@ -36,3 +36,4 @@ def array_s(array)
   array.each_with_index do |word, index|
   binding.pry
 end
+end
