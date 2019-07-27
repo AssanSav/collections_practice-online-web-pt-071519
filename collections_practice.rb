@@ -37,7 +37,7 @@ def add_s(array)
     if index == 1 
       word
     else 
-      word.size = "s"
+      word.length = "s"
     end
   end
 end
